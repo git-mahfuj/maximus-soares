@@ -66,6 +66,14 @@ My Journey Started From January 2025 and Still to go !!
 </p>
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=git-mahfuj&show_icons=true&theme=github_dark
+)
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=git-mahfuj&layout=compact&theme=github_dark
+)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=git-mahfuj&theme=github_dark)
 
 ### ⚡ Fun Fact
 > “Code is like humor — when you have to explain it, it’s bad.” 😄  
