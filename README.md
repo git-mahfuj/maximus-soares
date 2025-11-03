@@ -4,6 +4,11 @@
 💡 I love turning ideas into interactive and dynamic web experiences.  
 I’m dedicated to writing clean, efficient, and scalable code while constantly learning new technologies.
 
+My Journey Started From January 2025 and Still to go !!
+
+**This year, I built the foundation.**  
+**Next year, I rise.**
+
 ---
 
 ### 🧠 My Tech Stack
@@ -33,7 +38,8 @@ I’m dedicated to writing clean, efficient, and scalable code while constantly 
 ### 📈 Currently Working On
 - Building full-stack web applications with the MERN stack  
 - Learning advanced Next.js features (SSR, ISR, Middleware)  
-- Exploring UI motion design using GSAP  
+- Exploring UI motion design using GSAP
+- Exploring and Mastering it
 
 ---
 
@@ -47,16 +53,16 @@ I’m dedicated to writing clean, efficient, and scalable code while constantly 
 ### 🏗️ Featured Projects
 - 🔗 [Portfolio Website] [My Portfolio](https://console-mahfuj-fxaq.vercel.app/)
  
-- 🛒 [E-commerce App (MERN)](#)  
+- 🛒 [E-commerce App (MERN)](#) *(Coming Soon)*
 - 📚 [Learning Management System (Next.js + MongoDB)](#)
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://github.com/mahfuj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/git-mahfuj"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahfujur-rahman-364233357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mahfujurrheeck@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
